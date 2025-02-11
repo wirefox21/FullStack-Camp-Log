@@ -1,4 +1,4 @@
-# FullStack Camp💪 <small>WEBアプリ版</small>
+# FullStack Camp💪 <small>WEBアプリ版</small>💪
 「1つのアプリを違うフレームワークで🔥」
 
 #### 🎯動機
