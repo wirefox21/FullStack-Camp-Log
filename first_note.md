@@ -1,14 +1,17 @@
 # FullStack Camp💪 <small>WEBアプリ版</small>💪
+
 「1つのアプリを違うフレームワークで🔥」
 
 #### 🎯動機
+
 
 - 技術力を向上させたい
 - 開発を経験したい
 - フルスタックエンジニアへの憧れ
 
 ## FullStack Campとは？
-GitHubの人気レポジトリRiealWorldを参考にフルスクラッチでアプリ開発
+
+GitHubの人気レポジトリRealWorldを参考にフルスクラッチでアプリ開発
 
 #### RealWorld
 参照：
